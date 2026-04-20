@@ -1,0 +1,19 @@
+{
+  "github": "twilightscapes",
+  "camera": "",
+  "bio": "I take photos of things.",
+  "showDates": true,
+  "mastodon": "",
+  "author": "Todd",
+  "logo": {
+    "type": "text",
+    "image": "",
+    "text": ""
+  },
+  "enableSocial": true,
+  "instagram": "",
+  "location": "",
+  "title": "Todd's Photos",
+  "avatar": "/images/avatar.jpg",
+  "description": "A photography site on the Pirate Social network"
+}
