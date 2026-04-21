@@ -1,0 +1,11 @@
+{
+  "showInNav": true,
+  "title": "About Todd",
+  "slug": "about",
+  "blocks": [
+    {
+      "type": "profile",
+      "layout": "center"
+    }
+  ]
+}
