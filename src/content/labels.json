@@ -45,23 +45,25 @@
   },
   "social": {
     "heading": "Social Feed",
-    "tabFeed": "Feed",
-    "tabDiscover": "Discover",
-    "tabSquads": "Squads",
-    "tabSearch": "Search",
-    "tabYouTube": "Video",
-    "tabPosts": "Posts",
-    "tabTimeline": "Timeline",
+    "tabPeople": " ",
     "signInPrompt": "Sign in to see your feed",
     "noUsers": "No users yet",
     "readButton": "↗ Read",
+    "tabYouTube": "Video",
+    "tabSquads": "Squads",
     "shareButton": "↗ Share",
+    "tabBluesky": " ",
     "noPosts": "No posts yet",
+    "tabFeed": "Feed",
     "signInButton": "Sign in with GitHub",
+    "tabTimeline": "Timeline",
     "viewButton": "↗ View",
     "loading": "Loading...",
+    "tabSearch": "Search",
     "connectBluesky": "Connect your Bluesky account in Settings to see your feed",
-    "failedToLoad": "Failed to load feed"
+    "failedToLoad": "Failed to load feed",
+    "tabPosts": "Posts",
+    "tabDiscover": "Discover"
   },
   "about": {
     "heading": "About This Site"
@@ -114,16 +116,6 @@
   },
   "navItems": [
     {
-      "label": "Posts",
-      "url": "/posts",
-      "visible": true
-    },
-    {
-      "label": "Galleries",
-      "url": "/galleries",
-      "visible": true
-    },
-    {
       "label": "Social",
       "url": "/social",
       "visible": true
@@ -131,11 +123,6 @@
     {
       "label": "Settings",
       "url": "/settings",
-      "visible": true
-    },
-    {
-      "label": "About",
-      "url": "/about",
       "visible": true
     }
   ],
