@@ -2,7 +2,7 @@
   "github": "twilightscapes",
   "camera": "",
   "bio": "I take photos of things.",
-  "showDates": true,
+  "showDates": false,
   "mastodon": "",
   "author": "Todd",
   "logo": {
