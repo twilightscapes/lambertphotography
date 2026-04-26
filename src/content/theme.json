@@ -21,7 +21,7 @@
     "text": "rgba(24, 24, 27, 1)",
     "textMuted": "rgba(82, 82, 91, 1)",
     "textFaint": "rgba(113, 113, 122, 1)",
-    "primary": "#3b82f6",
+    "primary": "rgba(59, 130, 246, 1)",
     "primaryHover": "rgba(37, 99, 235, 1)",
     "accent": "rgba(139, 92, 246, 1)",
     "border": "rgba(228, 228, 231, 1)",
