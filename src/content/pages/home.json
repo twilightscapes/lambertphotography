@@ -4,6 +4,13 @@
   "showInNav": false,
   "blocks": [
     {
+      "type": "youtube",
+      "display": "docked",
+      "audioOnly": false,
+      "layout": "contained",
+      "url": "https://youtu.be/cZJUyxw2G2w?si=nWHhXvoWbW8Bv4N3"
+    },
+    {
       "type": "gallery",
       "columns": "3",
       "images": [
