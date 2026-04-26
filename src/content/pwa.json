@@ -1,18 +1,18 @@
 {
-  "ogTitle": "",
+  "ogTitle": "Lambert Photography - Unique photography by Todd Lambert",
   "display": "standalone",
   "ogImage": "/images/icon512.png",
-  "ogDescription": "",
+  "ogDescription": "Unique photography on location across America  by Todd Lambert. ",
   "screenshot": "/images/screenshot.png",
-  "shortName": "Pirate",
-  "name": "Pirate Social",
+  "shortName": "Lambert Photo",
+  "name": "Lambert Photo",
   "startUrl": "/social",
   "icon192": "/images/icon192.png",
   "favicon": "/images/logoImage.svg",
   "backgroundColor": "#09090b",
   "themeColor": "#09090b",
   "searchEngineVisibility": true,
-  "description": "A photography site on the Pirate Social network",
+  "description": "A photography site by Todd Lambert",
   "icon512": "/images/icon512.png",
   "appleTouchIcon": "/images/icon192.png"
 }
