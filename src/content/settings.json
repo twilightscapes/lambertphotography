@@ -10,6 +10,11 @@
     "image": "",
     "text": ""
   },
+  "cloudinary": {
+    "apiKey": "586262129857142",
+    "cloudName": "Root",
+    "enabled": true
+  },
   "navStyle": "top",
   "enableSocial": true,
   "instagram": "",
