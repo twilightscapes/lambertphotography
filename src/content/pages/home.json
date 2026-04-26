@@ -4,14 +4,34 @@
   "showInNav": false,
   "blocks": [
     {
-      "type": "profile",
-      "layout": "card"
-    },
-    {
       "type": "recentPosts",
       "heading": "Recent",
       "count": 6,
       "columns": "3"
+    },
+    {
+      "type": "gallery",
+      "columns": "3",
+      "images": [
+        {
+          "src": "/images/night83.jpg"
+        },
+        {
+          "src": "/images/night83.jpg"
+        },
+        {
+          "src": "/images/night87.jpg"
+        },
+        {
+          "src": "/images/night55.jpg"
+        },
+        {
+          "src": "/images/night80.jpg"
+        },
+        {
+          "src": "/images/night82.jpg"
+        }
+      ]
     }
   ]
 }
