@@ -7,8 +7,8 @@
     "blur": "0"
   },
   "fonts": {
-    "heading": "'Figtree', sans-serif",
-    "body": "'Lato', sans-serif",
+    "heading": "'Playfair Display', serif",
+    "body": "'Source Sans 3', sans-serif",
     "mono": "ui-monospace, monospace",
     "headingSize": "1.1",
     "bodySize": "1.1"
@@ -37,7 +37,7 @@
   },
   "dark": {
     "background": "#09090b",
-    "surface": "#18181b",
+    "surface": "#002753",
     "surfaceBorder": "#27272a",
     "surfaceHover": "#27272a",
     "text": "#f4f4f5",
