@@ -1,5 +1,5 @@
 {
-  "searchEngineVisibility": false,
+  "searchEngineVisibility": true,
   "name": "Lambert Photo",
   "shortName": "Lambert Photo",
   "description": "A photography site by Todd Lambert",
@@ -7,12 +7,12 @@
   "display": "standalone",
   "backgroundColor": "#09090b",
   "themeColor": "#09090b",
-  "icon192": "/images/icon192.png",
-  "icon512": "/images/icon512.png",
+  "icon192": "/images/icon192 2.png",
+  "icon512": "/images/icon512 2.png",
   "screenshot": "/images/screenshot.png",
   "ogImage": "/images/night35.jpg",
   "ogTitle": "Lambert Photography - Unique photography by Todd Lambert",
   "ogDescription": "Unique photography on location across America  by Todd Lambert.",
-  "favicon": "/images/logoImage.svg",
-  "appleTouchIcon": "/images/icon192.png"
+  "favicon": "/images/icon192 2.png",
+  "appleTouchIcon": "/images/icon192 2.png"
 }
