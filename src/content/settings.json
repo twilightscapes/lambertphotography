@@ -1,25 +1,25 @@
 {
-  "github": "twilightscapes",
-  "camera": "",
-  "bio": "I take photos of things.",
+  "enableSocial": true,
+  "navStyle": "top",
   "showDates": false,
-  "mastodon": "",
+  "title": "Todd's Photos",
+  "description": "A photography site on the Pirate Social network",
   "author": "Todd",
+  "bio": "I take photos of things.",
+  "avatar": "/images/e45f09f3-d86d-4cca-bed3-d65cb81b1cc3_1_105_c.jpg",
+  "location": "",
+  "camera": "",
   "logo": {
     "type": "text",
     "image": "",
     "text": ""
   },
   "cloudinary": {
-    "apiKey": "586262129857142",
+    "enabled": true,
     "cloudName": "dmcvjrry3",
-    "enabled": true
+    "apiKey": "586262129857142"
   },
-  "navStyle": "top",
-  "enableSocial": true,
+  "github": "twilightscapes",
   "instagram": "",
-  "location": "",
-  "title": "Todd's Photos",
-  "avatar": "/images/avatar.jpg",
-  "description": "A photography site on the Pirate Social network"
+  "mastodon": ""
 }
