@@ -1,0 +1,13 @@
+{
+  "title": "Cool Photos",
+  "slug": "coolphotos",
+  "description": "Very cool photos here",
+  "showInNav": true,
+  "blocks": [
+    {
+      "type": "galleriesList",
+      "heading": "",
+      "columns": "3"
+    }
+  ]
+}
