@@ -1,7 +1,7 @@
 {
   "enableSocial": true,
   "navStyle": "top",
-  "showDates": false,
+  "showDates": true,
   "title": "Todd's Photos",
   "description": "A photography site on the Pirate Social network",
   "author": "Todd",
