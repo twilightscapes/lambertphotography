@@ -5,9 +5,16 @@
   "showInNav": true,
   "blocks": [
     {
-      "type": "galleriesList",
+      "type": "gallery",
       "heading": "",
-      "columns": "3"
+      "columns": "3",
+      "images": [
+        {
+          "src": "/images/night80-1.jpg",
+          "alt": "",
+          "caption": ""
+        }
+      ]
     }
   ]
 }
