@@ -15,7 +15,7 @@
     "text": ""
   },
   "cloudinary": {
-    "enabled": true,
+    "enabled": false,
     "cloudName": "dmcvjrry3",
     "apiKey": "586262129857142"
   },
