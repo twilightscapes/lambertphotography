@@ -1,17 +1,46 @@
 {
   "title": "Home",
   "slug": "home",
+  "description": "",
   "showInNav": false,
   "blocks": [
     {
       "type": "youtube",
-      "display": "docked",
-      "audioOnly": false,
+      "heading": "",
       "layout": "contained",
-      "url": "https://youtu.be/cZJUyxw2G2w?si=nWHhXvoWbW8Bv4N3"
+      "url": "https://youtu.be/cUPV4OfNlt0?si=3tC9XLrnzFPNf3he",
+      "caption": "",
+      "display": "floating",
+      "audioOnly": true,
+      "startTime": null,
+      "endTime": null,
+      "tracks": [
+        {
+          "url": "https://youtu.be/h_TUP2vuaDs?si=oh4oF01Y3wtmNcNy",
+          "title": "Vicarious",
+          "startTime": null,
+          "endTime": null
+        },
+        {
+          "url": "https://youtu.be/-_nQhGR0K8M?si=fRVpWmk0wurArdYG",
+          "title": "Parabola",
+          "startTime": null,
+          "endTime": null
+        }
+      ]
+    },
+    {
+      "type": "youtube",
+      "heading": "",
+      "layout": "contained",
+      "url": "https://youtu.be/cZJUyxw2G2w?si=nWHhXvoWbW8Bv4N3",
+      "caption": "",
+      "display": "docked",
+      "audioOnly": false
     },
     {
       "type": "gallery",
+      "heading": "",
       "columns": "3",
       "images": [
         {
