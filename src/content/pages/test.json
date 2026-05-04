@@ -1,0 +1,15 @@
+{
+  "title": "Test",
+  "slug": "test",
+  "description": "",
+  "showInNav": false,
+  "blocks": [
+    {
+      "type": "socialEmbed",
+      "heading": "",
+      "platform": "x",
+      "handle": "@toddlambert",
+      "embedCode": ""
+    }
+  ]
+}
