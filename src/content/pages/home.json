@@ -6,10 +6,10 @@
   "blocks": [
     {
       "type": "hero",
-      "heading": "This is a heading!",
-      "subheading": "This is a subheading",
+      "heading": "Welcome to Lambert Photography",
+      "subheading": "This is an introduction into the work of Todd Lambert.",
       "image": "/images/IMG_0742.jpeg",
-      "overlay": true,
+      "overlay": false,
       "height": "medium",
       "links": [
         {
