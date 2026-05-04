@@ -10,6 +10,13 @@
       "platform": "facebook",
       "handle": "toddlambert.travels",
       "embedCode": ""
+    },
+    {
+      "type": "socialEmbed",
+      "heading": "",
+      "platform": "x",
+      "handle": "@toddlambert",
+      "embedCode": ""
     }
   ]
 }
