@@ -48,11 +48,13 @@
     {
       "type": "youtube",
       "heading": "",
-      "layout": "contained",
+      "layout": "full",
       "url": "https://youtu.be/cZJUyxw2G2w?si=nWHhXvoWbW8Bv4N3",
       "caption": "",
       "display": "docked",
-      "audioOnly": false
+      "audioOnly": false,
+      "startTime": null,
+      "endTime": null
     },
     {
       "type": "gallery",
@@ -60,7 +62,8 @@
       "columns": "3",
       "images": [
         {
-          "src": "/images/night35.jpg"
+          "src": "/images/night35.jpg",
+          "alt": ""
         },
         {
           "src": "/images/night83.jpg"
