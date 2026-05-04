@@ -10,7 +10,7 @@
       "subheading": "This is a subheading",
       "image": "/images/IMG_0742.jpeg",
       "overlay": true,
-      "height": "full",
+      "height": "medium",
       "links": [
         {
           "label": "Visit my other site",
