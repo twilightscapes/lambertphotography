@@ -37,7 +37,7 @@
   },
   "dark": {
     "background": "#09090b",
-    "surface": "#002753",
+    "surface": "#201a1a",
     "surfaceBorder": "#27272a",
     "surfaceHover": "#27272a",
     "text": "#f4f4f5",
